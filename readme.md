@@ -1,7 +1,7 @@
 # Image board full-stack app
 
 ### Features: 
-    create posts, add am image, like, update your post.
+    create posts, add an image, like, update your post.
 
 #### Tools used:     
     - React JS
@@ -12,4 +12,7 @@
     - ExpressJS
     - NPM packages
 
-    Tutorial link: https://www.youtube.com/watch?v=ngc9gnGgUdA&list=LL&index=4&ab_channel=JavaScriptMastery
+    Tutorial link: [Link](https://www.youtube.com/watch?v=ngc9gnGgUdA&list=LL&index=4&ab_channel=JavaScriptMastery)
+
+    Demo deployed on Netlify and Heroku:
+    [DEMO]()
